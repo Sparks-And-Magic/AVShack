@@ -61,6 +61,10 @@ Presently, Linux x64 has been tested, although, arm64 is available.
 
 If Windows is needed, please reach out (email below).
 
+## Limitations
+
+The demo is limited to 30 connections.
+
 ## Caveats
 
 The Linux version uses some CPU usage at idle.
