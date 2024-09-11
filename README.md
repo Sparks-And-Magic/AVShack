@@ -24,6 +24,8 @@ $ ./avshack --urls='http://*:8080'
 
 A directory call "AVShack" will be created.  Logs and the SQLite database will be stored there.
 
+Finally, access in the browser at http://ip.address:8080/admin
+
 # Features
 
 ## VOD Directories
