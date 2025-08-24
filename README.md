@@ -20,7 +20,7 @@ $ ./avshack --add-admin-email='name@host.com'
 ## Start AVShack on Port 8080
 
 ```bash
-$ ./avshack --urls='http://*:8080'
+$ ./avshack
 ```
 
 A directory call "AVShack" will be created.  Logs and the SQLite database will be stored there.
