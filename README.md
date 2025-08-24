@@ -1,6 +1,6 @@
 # AVShack (Beta)
 
-Live Stream Mixing On-Premise On-Premise Server App. Supports RTMP, RTSP, SRT, and MP4 ingest. The ingested
+Live Stream Mixing On-Premise Server App. Supports RTMP, RTSP, SRT, and MP4 ingest. The ingested
 sources can be mixed together into a single stream. The mix can be multistreamed custom RTMP and SRT destinations.
 
 Also, viewing via Ultra-Low Latency WebTransport and LL-HLS is supported.
