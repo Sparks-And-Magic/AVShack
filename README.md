@@ -45,6 +45,8 @@ Presently, Linux x64 has been tested, although, arm64 is available.
 
 The free version is limited to two hours of live streaming.
 
+WebTransport player has only been tested on Desktop Chrome and Firefox.
+
 ## Free Trial
 
 There is a 45 day free trial.
