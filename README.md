@@ -1,8 +1,9 @@
 # AVShack (Beta)
 
-VOD On-Premise Server App - Supports MP4, H264, H264, AAC, and HLS M3U8 Generation
+Live Stream Mixing On-Premise On-Premise Server App. Supports RTMP, RTSP, SRT, and MP4 ingest. The ingested
+sources can be mixed together into a single stream. The mix can be multistreamed custom RTMP and SRT destinations.
 
-Media server that can ingest MP4 files on disk and create HLS M3U8 links.  Also, has an embedded HLS.js player.
+Also, viewing via Ultra-Low Latency WebTransport and LL-HLS is supported.
 
 Configuration is done via a web frontend or a REST api.  The web frontend utilizes the REST api.
 
@@ -26,32 +27,11 @@ A directory call "AVShack" will be created.  Logs and the SQLite database will b
 
 Finally, access in the browser at http://ip.address:8080/admin
 
-# Features
-
-## VOD Directories
-
-A directory, on disk, can be mapped to a url.  The files in the directory can be accessed via /hls/mapped_name/file.mp4
-and /v/mapped_name/file.mp4.
-
-So, if AVShack is running on localhost, then http://localhost/hls/mapped_name/file.mp4 will generate a HLS .M3U8 and 
-http://localhost/v/mapped_name/file.mp4 serve a HLS.js player.
-
-Multiple VOD directories can be defined.
-
-## Playlists
-
-A playlist, with file extension .pls, can be utilized.  It's a text file with one MP4 per line.  These MP4 files will be 
-sent to the user, one after another.  Each MP4 must have the same settings.
-
-The same settings are:
-
-- Codec
-- Profile and Level
-- Audio: Sample Rate and Channels
-- Video: Width and Height
-
 ## Formats
 
+- RTMP
+- RTSP
+- SRT
 - MP4
 - H264
 - H265
@@ -61,11 +41,13 @@ The same settings are:
 
 Presently, Linux x64 has been tested, although, arm64 is available.
 
-If Windows is needed, please reach out (email below).
-
 ## Limitations
 
-The demo is limited to 30 connections.
+The free version is limited to two hours of live streaming.
+
+## Free Trial
+
+There is a 45 day free trial.
 
 ## Caveats
 
@@ -74,4 +56,5 @@ The Linux version uses some CPU usage at idle.
 ## Contact
 
 Feel free and reach out brian ~~~ sparksandmagic.com (replace ~~~ with @), especially if you need a feature we don't currently support.
+
 ##
