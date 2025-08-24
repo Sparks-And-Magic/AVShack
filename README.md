@@ -41,6 +41,12 @@ Finally, access in the browser at http://ip.address:8080/admin
 
 Presently, Linux x64 has been tested, although, arm64 is available.
 
+## Requirements
+
+FFmpeg 7.1
+
+Mixing requires a GPU. Tested on a NVIDIA GeForce GTX 1650.
+
 ## Limitations
 
 The free version is limited to two hours of live streaming.
