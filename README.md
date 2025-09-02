@@ -1,4 +1,4 @@
-# AVShack (Beta)
+# AVShack (Alpha)
 
 Live Stream Mixing On-Premise Server App. Supports RTMP, RTSP, SRT, and MP4 ingest. The ingested
 sources can be mixed together into a single stream. The mix can be multistreamed custom RTMP and SRT destinations.
