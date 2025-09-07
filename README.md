@@ -47,9 +47,13 @@ FFmpeg 7.1
 
 Mixing requires a GPU. Tested on a NVIDIA GeForce GTX 1650.
 
-## Limitations
+## Wiki
 
-The free version is limited to two hours of live streaming.
+Please see the wiki for more.
+
+[Wiki](https://github.com/Sparks-And-Magic/AVShack/wiki/Home)
+
+## Limitations
 
 WebTransport player has only been tested on Desktop Chrome and Firefox.
 
