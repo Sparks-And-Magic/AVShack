@@ -53,6 +53,12 @@ The free version is limited to two hours of live streaming.
 
 WebTransport player has only been tested on Desktop Chrome and Firefox.
 
+## Subscription
+
+This is subscription software that includes a time-limited free mode.
+
+The time limit starts after streaming starts and is two hours of streaming.
+
 ## Free Trial
 
 There is a 45 day free trial.
