@@ -1,7 +1,9 @@
 # AVShack (Alpha)
 
-Live Stream Mixing On-Premise Server App. Supports RTMP, RTSP, SRT, and MP4 ingest. The ingested
-sources can be mixed together into a single stream. The mix can be multistreamed custom RTMP and SRT destinations.
+AVShack supports Rtmp, Rtsp, Srt, and Mp4 ingest with Mixing, MultiMux, and Multistreaming, that can be viewed with LL-HLS or WebTransport.
+
+The ingested sources can be mixed together into a single stream. The mix can be multistreamed custom RTMP and SRT destinations;
+pulled via multimux rtmp, rtsp or srt; or multistreamed to custom rtmp or srt destinations.
 
 Also, viewing via Ultra-Low Latency WebTransport and LL-HLS is supported.
 
