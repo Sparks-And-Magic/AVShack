@@ -1,11 +1,9 @@
 # AVShack (Alpha)
 
-AVShack supports Rtmp, Rtsp, Srt, and Mp4 ingest with Mixing, MultiMux, and Multistreaming, that can be viewed with LL-HLS or WebTransport.
+AVSHack is a Linux live streaming app that supports Ingesting, Mixing, MultiMux, and Multistreaming of RTMP, RTSP, SRT, and MP4 with LL-HLS and WebTransport Viewing.
 
-The ingested sources can be mixed together into a single stream. The mix can be multistreamed custom RTMP and SRT destinations;
-pulled via multimux rtmp, rtsp or srt; or multistreamed to custom rtmp or srt destinations.
-
-Also, viewing via Ultra-Low Latency WebTransport and LL-HLS is supported.
+The ingested sources can be mixed together into a single stream. The mix can be multistreamed to custom RTMP and SRT destinations;
+pulled via multimux with rtmp, rtsp or srt; or viewed via LL-HLS or WebTransport.
 
 Configuration is done via a web frontend or a REST api.  The web frontend utilizes the REST api.
 
@@ -16,13 +14,13 @@ Currently, the datastore is SQLite.
 ## Create an Admin User
 
 ```bash
-$ ./avshack --add-admin-email='name@host.com'
+./avshack --add-admin-email='name@host.com'
 ```
 
 ## Start AVShack on Port 8080
 
 ```bash
-$ ./avshack
+./avshack
 ```
 
 A directory call "AVShack" will be created.  Logs and the SQLite database will be stored there.
@@ -41,7 +39,7 @@ Finally, access in the browser at http://ip.address:8080/admin
 
 ## Operating Systems
 
-Presently, Linux x64 has been tested, although, arm64 is available.
+Presently, Linux x64 has been tested, although, arm64 may work.
 
 ## Requirements
 
@@ -71,7 +69,7 @@ There is a 45 day free trial.
 
 ## Caveats
 
-The Linux version uses some CPU usage at idle.
+There is some CPU usage at idle.
 
 ## Contact
 
