@@ -43,9 +43,9 @@ Presently, Linux x64 has been tested, although, arm64 may work.
 
 ## Requirements
 
-FFmpeg 7.1
+Mixing requires FFmpeg 7.1.1 a GPU. Tested on a NVIDIA GeForce GTX 1650.
 
-Mixing requires a GPU. Tested on a NVIDIA GeForce GTX 1650.
+WebTransport Viewer requires Http/3 via QUIC and SSL.
 
 ## Wiki
 
