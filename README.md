@@ -11,7 +11,13 @@ Currently, the datastore is SQLite.
 
 # Screenshot
 
+## Player
+
 ![AVShack Screenshot](https://sparksandmagic.nyc3.digitaloceanspaces.com/sintelPipBigBuckBunny.png)
+
+## Scene Editor
+
+![AVShack Screenshot](https://sparksandmagic.nyc3.digitaloceanspaces.com/editorSintelPipBigBuckBunny.png)
 
 # Getting Started
 
