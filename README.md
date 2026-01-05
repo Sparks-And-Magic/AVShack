@@ -9,6 +9,10 @@ Configuration is done via a web frontend or a REST api.  The web frontend utiliz
 
 Currently, the datastore is SQLite.
 
+# Screenshot
+
+![AVShack Screenshot]([images/screenshot.png](https://sparksandmagic.nyc3.digitaloceanspaces.com/sintelPipBigBuckBunny.png)
+
 # Getting Started
 
 ## Create an Admin User
