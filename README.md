@@ -11,7 +11,7 @@ Currently, the datastore is SQLite.
 
 # Screenshot
 
-![AVShack Screenshot]([images/screenshot.png](https://sparksandmagic.nyc3.digitaloceanspaces.com/sintelPipBigBuckBunny.png)
+![AVShack Screenshot]([https://sparksandmagic.nyc3.digitaloceanspaces.com/sintelPipBigBuckBunny.png])
 
 # Getting Started
 
