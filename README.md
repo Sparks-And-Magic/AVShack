@@ -1,6 +1,6 @@
 # AVShack (Alpha)
 
-AVSHack is a Linux live streaming server that supports Ingesting, Mixing with Mix Minus, MultiMux, Multistreaming and Recording of RTMP, RTSP, SRT, and MP4 with LL-HLS, WebTransport, and WebSocket Viewing.
+AVSHack is a Linux live streaming server that supports Ingesting, Mixing, MultiMux, Multistreaming and Recording of RTMP, RTSP, SRT, and MP4 with LL-HLS, WebTransport, and WebSocket Viewing.
 
 The ingested sources can be mixed together into a single stream. The mix can be multistreamed to custom RTMP and SRT destinations;
 pulled via multimux with rtmp, rtsp or srt; or viewed via LL-HLS or WebTransport.
