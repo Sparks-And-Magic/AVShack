@@ -79,6 +79,8 @@ Month to month includes full support while subscribed. Per instance include full
 
 Month to month requires internet access.
 
+Please reach out (email below) to subscribe.
+
 ## Free Trial
 
 Reach out (email below) if you need a 45 or 90 day free trial.
