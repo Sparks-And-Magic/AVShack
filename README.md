@@ -73,9 +73,15 @@ This is subscription software that includes a time-limited free mode.
 
 The time limit starts after streaming starts and is two hours of streaming.
 
+The cost is $59 a month for month to month and $649 per instance per year for a perpetual license.
+
+Month to month includes full support while subscribed. Per instance include full support for a year.
+
+Month to month requires internet access.
+
 ## Free Trial
 
-There is a 45 day free trial.
+Reach out (email below) if you need a 45 or 90 day free trial.
 
 ## Caveats
 
