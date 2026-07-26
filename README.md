@@ -37,6 +37,10 @@ A directory call "AVShack" will be created.  Logs and the SQLite database will b
 
 Finally, access in the browser at http://ip.address:8080/admin
 
+## Download
+
+Download [here](https://github.com/Sparks-And-Magic/AVShack/releases/download/v2026-07-25T160441/avshack-linux-x64-v2026-07-25T160441.tgz)
+
 ## Formats
 
 - RTMP
