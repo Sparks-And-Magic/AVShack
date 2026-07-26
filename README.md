@@ -9,6 +9,8 @@ Configuration is done via a web frontend or a REST api.  The web frontend utiliz
 
 Currently, the datastore is SQLite.
 
+Download [here](https://github.com/Sparks-And-Magic/AVShack/releases/download/v2026-07-25T160441/avshack-linux-x64-v2026-07-25T160441.tgz)
+
 # Screenshot
 
 ## Player
