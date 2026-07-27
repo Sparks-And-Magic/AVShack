@@ -39,6 +39,8 @@ A directory call "AVShack" will be created.  Logs and the SQLite database will b
 
 Finally, access in the browser at http://ip.address:8080/admin
 
+Please see "Getting Started" in the [wiki](https://github.com/Sparks-And-Magic/AVShack/wiki).
+
 ## Download
 
 Download [here](https://github.com/Sparks-And-Magic/AVShack/releases/download/v2026-07-27T001718/avshack-linux-x64-v2026-07-27T001718.tgz)
