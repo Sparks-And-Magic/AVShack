@@ -9,7 +9,7 @@ Configuration is done via a web frontend or a REST api.  The web frontend utiliz
 
 Currently, the datastore is SQLite.
 
-Download [here](https://github.com/Sparks-And-Magic/AVShack/releases/download/v2026-07-25T160441/avshack-linux-x64-v2026-07-25T160441.tgz)
+Download [here](https://github.com/Sparks-And-Magic/AVShack/releases/download/v2026-07-27T001718/avshack-linux-x64-v2026-07-27T001718.tgz)
 
 # Screenshot
 
@@ -41,7 +41,7 @@ Finally, access in the browser at http://ip.address:8080/admin
 
 ## Download
 
-Download [here](https://github.com/Sparks-And-Magic/AVShack/releases/download/v2026-07-25T160441/avshack-linux-x64-v2026-07-25T160441.tgz)
+Download [here](https://github.com/Sparks-And-Magic/AVShack/releases/download/v2026-07-27T001718/avshack-linux-x64-v2026-07-27T001718.tgz)
 
 ## Formats
 
