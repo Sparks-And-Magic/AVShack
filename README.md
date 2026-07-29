@@ -9,7 +9,7 @@ Configuration is done via a web frontend or a REST api.  The web frontend utiliz
 
 Currently, the datastore is SQLite.
 
-Download [here](https://github.com/Sparks-And-Magic/AVShack/releases/download/v2026-07-27T001718/avshack-linux-x64-v2026-07-27T001718.tgz)
+Download [here](https://github.com/Sparks-And-Magic/AVShack/releases/download/v2026-07-28T203430/avshack-linux-x64-v2026-07-28T203430.tgz)
 
 # Screenshot
 
@@ -43,7 +43,7 @@ Please see "Getting Started" in the [wiki](https://github.com/Sparks-And-Magic/A
 
 ## Download
 
-Download [here](https://github.com/Sparks-And-Magic/AVShack/releases/download/v2026-07-27T001718/avshack-linux-x64-v2026-07-27T001718.tgz)
+Download [here](https://github.com/Sparks-And-Magic/AVShack/releases/download/v2026-07-28T203430/avshack-linux-x64-v2026-07-28T203430.tgz)
 
 ## Formats
 
